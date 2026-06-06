@@ -1,0 +1,7 @@
+{
+  "name": "LM Tours - Official Website",
+  "description": "A premium tour service application for discovering and booking curated global journeys, featuring fleet exploration and seamless booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
